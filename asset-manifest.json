@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/kcap1/static/js/main.dd3f049c.chunk.js",
+    "main.js.map": "/kcap1/static/js/main.dd3f049c.chunk.js.map",
+    "runtime-main.js": "/kcap1/static/js/runtime-main.574c0be1.js",
+    "runtime-main.js.map": "/kcap1/static/js/runtime-main.574c0be1.js.map",
+    "static/js/2.3d79bb4f.chunk.js": "/kcap1/static/js/2.3d79bb4f.chunk.js",
+    "static/js/2.3d79bb4f.chunk.js.map": "/kcap1/static/js/2.3d79bb4f.chunk.js.map",
+    "static/js/3.6120bf20.chunk.js": "/kcap1/static/js/3.6120bf20.chunk.js",
+    "static/js/3.6120bf20.chunk.js.map": "/kcap1/static/js/3.6120bf20.chunk.js.map",
+    "index.html": "/kcap1/index.html",
+    "static/js/2.3d79bb4f.chunk.js.LICENSE.txt": "/kcap1/static/js/2.3d79bb4f.chunk.js.LICENSE.txt",
+    "static/media/background.cf9de54f.jpg": "/kcap1/static/media/background.cf9de54f.jpg",
+    "static/media/blob.36fb7761.svg": "/kcap1/static/media/blob.36fb7761.svg",
+    "static/media/drake.7d1b1eba.jpg": "/kcap1/static/media/drake.7d1b1eba.jpg",
+    "static/media/gilfoyle.bb1645f3.jpg": "/kcap1/static/media/gilfoyle.bb1645f3.jpg",
+    "static/media/wave3black.d4389053.svg": "/kcap1/static/media/wave3black.d4389053.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.574c0be1.js",
+    "static/js/2.3d79bb4f.chunk.js",
+    "static/js/main.dd3f049c.chunk.js"
+  ]
+}
